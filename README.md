@@ -1,2 +1,3 @@
 # DMA-recent-datasets
-Python script for matching most recently revised datasets in DataZoo to EDI
+Python script for finding the latest revised datasets in DataZoo.
+Please fill out variables in the credentials.py file before running.
